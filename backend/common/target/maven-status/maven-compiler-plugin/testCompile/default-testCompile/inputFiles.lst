@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\channel\ChannelRouterTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\auth\oauth\OAuthConfigSupportTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\extension\FunctionCallingServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\extension\ToolRuntimeConfigServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\market\MarketCatalogServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\credits\CreditsAccountServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\file\FileLibraryServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\file\FileKindTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\auth\oauth\OAuthRateLimitSupportTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\research\entity\ResearchRunEntityTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\research\entity\ResearchStageLogEntityTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\adapter\openai\OpenAiAdapterTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\extension\UserMcpToolAccessServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\auth\group\UserGroupServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\agent\AgentServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\ai\model\AiModelMetadataServiceTest.java
+C:\Users\ASUS\Desktop\ai-app\backend\common\src\test\java\com\webchat\platformapi\skill\LocalSkillDiscoveryServiceTest.java

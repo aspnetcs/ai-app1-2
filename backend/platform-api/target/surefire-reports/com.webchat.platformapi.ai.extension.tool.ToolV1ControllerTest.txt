@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.webchat.platformapi.ai.extension.tool.ToolV1ControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.115 s -- in com.webchat.platformapi.ai.extension.tool.ToolV1ControllerTest
